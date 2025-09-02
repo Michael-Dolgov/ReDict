@@ -1,2 +1,2 @@
 # ReDictRAMServ
-remote dictionary server based on random access memory
+remote dictionary server based on random access memory.
